@@ -15,10 +15,17 @@
     <sprite>sprites\sprite4</sprite>
     <sprite>sprites\sprite5</sprite>
     <sprite>sprites\clearpixel</sprite>
+    <sprite>sprites\picnic</sprite>
+    <sprite>sprites\highlight</sprite>
+    <sprite>sprites\highlightBad</sprite>
+    <sprite>sprites\disabled</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
-  <fonts name="fonts"/>
+  <fonts name="fonts">
+    <font>fonts\fontFun</font>
+    <font>fonts\fontFunB</font>
+  </fonts>
   <objects name="objects">
     <object>objects\object0</object>
     <object>objects\monyz</object>
@@ -29,6 +36,7 @@
     <object>objects\Cheats</object>
     <object>objects\disableCheatButton</object>
     <object>objects\Shop_button</object>
+    <object>objects\objUpgrade</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
